@@ -4,4 +4,4 @@ This is the second line just added today morning
 This is foruth line
 
 This is the fifth line tested for 
-This is the sixth line added for pull command test
+This is the sixth line added for push command test
